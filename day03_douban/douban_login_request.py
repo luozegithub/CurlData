@@ -10,8 +10,8 @@ url_contacts = ''
 formdata = {
     'redir': 'https://www.douban.com/',
     # 'source': 'index_nav',
-    'form_email': '1007557275@qq.com',
-    'form_password': 'lz123456',
+    'form_email': '',
+    'form_password': '',
     'login': u'登陆'
 }
 headers = {
